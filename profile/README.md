@@ -1,3 +1,3 @@
-# Mapa agropecuario forestal
+# Mapas de referencia de tierras agropecuarias y de cobertura forestal de Costa Rica
 
-Esta organización contiene los repositorios con la documentación y el código fuente utilizados para generar mapas de uso agropecuario y bosques de Costa Rica.
+Esta organización contiene repositorios con mapas de referencia de tierras agropecuarias y de cobertura forestal de Costa Rica, junto con el código fuente y la documentación necesarios para generarlos.
